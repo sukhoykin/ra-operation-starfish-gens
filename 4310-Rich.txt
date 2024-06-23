@@ -105,6 +105,7 @@ Lookup:Area
 0x6e=The Long Tunnel
 
 Lookup:Health
+0x0=☠️
 0x1=[ 🐠···· ]
 0x2=[ 🐠🐠··· ]
 0x3=[ 🐠🐠🐠·· ]
@@ -116,4 +117,5 @@ FormatType=VALUE
 
 Display:
 ?0xhf824=0?📺 Titles 📺
-Pond is exploring @Area(0xh27aa) area having ❤ @Value(0xhfa9e) lives @Health(0xhfaa0) energy points 🌙 @Value(0xfcd0) moons 💯 @Value(0xfccc*65536_0xfcce) scores
+?0xhf824=4?James is exploring world map near @Area(0xh27aa) ❤ @Value(0xhfa9e) @Health(0xhfaa0) 🌙 @Value(0xfcd0) 💯 @Value(0xfccc*65536_0xfcce)
+James is exploring area @Area(0xh27aa) ❤ @Value(0xhfa9e) @Health(0xhfaa0) 🌙 @Value(0xfcd0) 💯 @Value(0xfccc*65536_0xfcce)
