@@ -103,9 +103,27 @@ Lookup:Area
 0x6c=Killer Chasm
 0x6d=Crystalline Cheese Chunks
 0x6e=The Long Tunnel
+0x6f=The Cheese Tower
+0x70=The Secret Slime Pit
+0x71=The Wolds
+0x72=The Wolds
+0x73=The Wolds
+0x74=The Curdleburg Chasm
+0x75=Riccottacombes
+0x76=The Crystal Caverns
+0x77=The Crystal Caverns
+0x78=The Crystal Caverns
+0x7a=The Cheese Tower-Top
+0x7b=The Overwold
+0x7c=The Overwold
+0x7d=The Overwold
+0x7e=The Slime Plains
+0x7f=The Butter Mound
+0x80=The Blue Cheese Ledge
+0x81=The Blue Cheese Cascade
+0x82=The Blue Cheese Cliffs
 
 Lookup:Health
-0x0=☠️
 0x1=[ 🐠···· ]
 0x2=[ 🐠🐠··· ]
 0x3=[ 🐠🐠🐠·· ]
@@ -117,5 +135,4 @@ FormatType=VALUE
 
 Display:
 ?0xhf824=0?📺 Titles 📺
-?0xhf824=4?James is exploring world map near @Area(0xh27aa) ❤ @Value(0xhfa9e) @Health(0xhfaa0) 🌙 @Value(0xfcd0) 💯 @Value(0xfccc*65536_0xfcce)
-James is exploring area @Area(0xh27aa) ❤ @Value(0xhfa9e) @Health(0xhfaa0) 🌙 @Value(0xfcd0) 💯 @Value(0xfccc*65536_0xfcce)
+Pond is exploring @Area(0xh27aa) area having ❤ @Value(0xhfa9e) lives @Health(0xhfaa0) energy points 🌙 @Value(0xfcd0) moons 💯 @Value(0xfccc*65536_0xfcce) scores
