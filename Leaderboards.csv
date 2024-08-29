@@ -6,6 +6,7 @@
 05,Hot Custards Springs
 06,Bubbling Plains
 07,Lumpsville
+08,The Lumpsville Lurker
 09,Lower Gloopy
 0a,Gloopy Henge
 0b,Little Pimple
@@ -14,6 +15,7 @@
 0e,Rennet Mine 2
 0f,Mozzarella Over-mine
 10,More Murky Moors
+11,Lair of the Mush-beast
 12,Slimeswold
 13,Lower Slimeswold
 14,Slimeswold Under Cheese
@@ -27,11 +29,13 @@
 1c,Little Curdlington
 1d,Upper Curdlington
 1e,Curdlington on the Whey
+1f,Kentucky Fried Fiend
 20,Wendsleydale Wastelands
 21,The Floating Folly
 22,Parmesan Peaks
 23,The Feta Flatlands
 63,Blue Moon Dunes
+24,The Fungi Strikes Back
 25,Glace Glacier
 26,Sorbet on Sea
 27,Scoopingdon
@@ -40,6 +44,7 @@
 2a,The Melting Downs
 2b,Waferville
 64,Neopolitan Peninsula
+2c,Bovine Aerial Assault*
 33,Camonbert Canyon
 34,Roquefort Ridge
 35,Gorgonzola Gorge
